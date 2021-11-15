@@ -1,5 +1,9 @@
 # eduverse
 
-A new Flutter application.
+Eduverse
+ -Intergrated Student Management Application
+ 
+ 
+ ![](eduverseread.jpg)
 
 
